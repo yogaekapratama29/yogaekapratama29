@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yoga Eka Pratama</h1>
 <h3 align="center">A passionate Mobile Developer from Indonesia</h3>
 
-<img-align=“right” alt=“Coding” width= “400” src = “”https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?t=st=1716662851~exp=1716666451~hmac=718084a1d63f6a9d9c48d79d3bd6d6516c572a67e0328ed9059fb431d7f9c3ac&w=2000>
+<img-align=“right” alt=“Coding” width= “400” src = “https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?t=st=1716662851~exp=1716666451~hmac=718084a1d63f6a9d9c48d79d3bd6d6516c572a67e0328ed9059fb431d7f9c3ac&w=2000”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogaekapratama29&label=Profile%20views&color=0e75b6&style=flat" alt="yogaekapratama29" /> </p>
 
