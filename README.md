@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogaekapratama29&label=Profile%20views&color=0e75b6&style=flat" alt="yogaekapratama29" /> </p>
 
-- 🌱 I’m currently learning **Flutter and Python**
+- 🌱 I’m currently learning **Flutter, Python and Javascript**
 
 - 💬 Ask me about **Android,IOS**
 
