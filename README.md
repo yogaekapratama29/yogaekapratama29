@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Yoga Eka Pratama</h1>
-<h3 align="center">A passionate Mobile Developer from Indonesia</h3>
+<h1 align="center">Hi all! 👋, I'm Yoga Eka Pratama</h1>
+<h3 align="center">A passionate Front End Web & Mobile Developer from Indonesia</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogaekapratama29&label=Profile%20views&color=0e75b6&style=flat" alt="yogaekapratama29" /> </p>
 
-- 🌱 I’m currently learning **Flutter, Python and Javascript**
+- 🌱 I’m currently learning **Flutter, React and Javascript**
 
-- 💬 Ask me about **Android,IOS**
+- 💬 Ask me about **Android,IOS,Web!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
