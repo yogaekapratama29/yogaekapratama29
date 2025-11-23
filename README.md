@@ -1,10 +1,10 @@
 <h1 align="center">Hi all! 👋, I'm Yoga Eka Pratama</h1>
-<h3 align="center">A passionate Front End Web & Mobile Developer from Indonesia</h3>
+<h3 align="center">A passionate Front End Web, Back End & Mobile Developer from Indonesia</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogaekapratama29&label=Profile%20views&color=0e75b6&style=flat" alt="yogaekapratama29" /> </p>
 
-- 🌱 I’m currently learning **Flutter, React and Javascript**
+- 🌱 I’m currently learning **Flutter, React, Javascript , and Golang**
 
 - 💬 Ask me about **Android,IOS,Web!**
 
